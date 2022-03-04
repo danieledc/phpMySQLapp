@@ -1,8 +1,8 @@
 <?php
-$servername = "127.0.0.1";
-$username = "root";
-$password = "admin";
-$dbname = "moviedb";
+$servername = "_servername_";
+$username = "_username_";
+$password = "_password_";
+$dbname = "_dbname_";
 
 $conn = mysqli_connect($servername, $username, $password,$dbname );
 // Check connection
